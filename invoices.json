@@ -1,9 +1,8 @@
 {
 	"companyLogo": "http://lea.verou.me/logo.svg",
-	"companyName": "Lea Verou",
-	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
-	"companyURL": "http://lea.verou.me",
-	"companyEmail": "lea@verou.me",
+	"companyName": "Gorazd Kovačič s.p.",
+	"companyAddress": "Žaucerjeva ulica 11\n1000 Ljubljana",
+	"companyEmail": "gorazdk@gmail.com",
 	"invoice": [
 		{
 			"id": "3",
