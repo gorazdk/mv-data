@@ -11,7 +11,7 @@
 				"name": "Fines",
 				"address": "Kosovelova cesta 13"
 			},
-			"currency": "$",
+			"currency": "€",
 			"services": [
 				{
 					"description": "svetovanje",
